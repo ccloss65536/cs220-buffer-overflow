@@ -1,0 +1,4 @@
+set disassemble-next-line on
+break 100
+break *0x400f02
+run <testhex.txt

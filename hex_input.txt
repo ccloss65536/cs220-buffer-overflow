@@ -1,0 +1,13 @@
+S A{{{{!!!!{{{
+B ba0000000049c7c00000000048c7c1
+4 00602001
+B 428a140180faba0f84
+4 ffdfe93d
+B 48c7c1
+4 00603ce0
+B 83ea174d69c8900100004c01c989114883c4384889e54883ec384983c001
+B e9
+4 ffffffc2
+S well you see, an A press has 3 parts to it: the press, the hold, and the release. We need to press A for things such as jumping, screw it I'm out of meme power! UwUwUwUOw
+8 00007fffffffe670
+4 60200c

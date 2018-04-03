@@ -1,0 +1,3 @@
+retBuffer = 0x602000
+grade array = 0x603cc0
+start of my grades = 0x6047b0
